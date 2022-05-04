@@ -1,0 +1,5 @@
+Clustering/build/**
+Clustering/.vscode/**
+simulation/build/**
+simulation/.vscode/**
+.vscode/settings.json

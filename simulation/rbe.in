@@ -1,0 +1,18 @@
+/run/verbose 2
+/control/verbose 2
+/run/initialize 
+
+/run/verbose 0
+/control/verbose 0
+/run/initialize 
+
+/gps/particle alpha
+/gps/direction 0 1 0
+/gps/position 0 -1 0 um
+
+/gps/ene/type Mono
+/gps/ene/mono 4 MeV
+
+/run/printProgress 1
+
+/run/beamOn 1
